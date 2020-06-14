@@ -1,0 +1,118 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Downloads\\Android-Attendance-App-source code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Downloads\\Android-Attendance-App-source code\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "57,60,81",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3270,3353,4704",
+                        "endLines": "59,62,83",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "3348,3420,4802"
+                    }
+                },
+                {
+                    "source": "D:\\Downloads\\Android-Attendance-App-source code\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,15,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,155,201,248,299,342,387,484,749,1064,1112",
+                        "endColumns": "49,49,45,46,50,42,44,39,43,38,47,39",
+                        "endOffsets": "100,150,196,243,294,337,382,422,523,783,1107,1147"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ATOM\\.gradle\\caches\\transforms-2\\files-2.1\\acedb5a439482afea3702661a6a2cc74\\support-compat-26.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,17,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,52,56,63,64,69,72,77,79,80",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "528,597,859,990,1266,1336,1404,1476,1546,1607,1668,1729,1791,1855,1917,1978,2046,2146,2206,2272,2345,2414,2471,2523,2585,2657,2733,2768,2803,2837,2872,2967,3199,3425,3542,3809,4102,4369,4565,4637",
+                        "endLines": "12,13,17,19,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,52,56,63,67,69,75,77,79,80",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "592,655,912,1059,1331,1399,1471,1541,1602,1663,1724,1786,1850,1912,1973,2041,2141,2201,2267,2340,2409,2466,2518,2580,2652,2728,2763,2798,2832,2867,2902,3032,3265,3537,3738,3914,4298,4493,4632,4699"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ATOM\\.gradle\\caches\\transforms-2\\files-2.1\\971a5b69b89846008f16f9726686958d\\support-media-compat-26.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,16,18,51,68,70,71,76,78",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "660,788,917,2907,3743,3919,4041,4303,4498",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "744,854,985,2962,3804,4036,4097,4364,4560"
+                    }
+                },
+                {
+                    "source": "D:\\Downloads\\Android-Attendance-App-source code\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "427",
+                        "endColumns": "56",
+                        "endOffsets": "479"
+                    }
+                },
+                {
+                    "source": "D:\\Downloads\\Android-Attendance-App-source code\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1152,1210",
+                        "endColumns": "57,55",
+                        "endOffsets": "1205,1261"
+                    }
+                },
+                {
+                    "source": "D:\\Downloads\\Android-Attendance-App-source code\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,56,-1",
+                        "endColumns": "-1,55,-1",
+                        "endOffsets": "-1,107,-1"
+                    },
+                    "to": {
+                        "startLines": "53,54,55",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3037,3090,3146",
+                        "endColumns": "52,55,52",
+                        "endOffsets": "3085,3141,3194"
+                    }
+                }
+            ]
+        }
+    ]
+}

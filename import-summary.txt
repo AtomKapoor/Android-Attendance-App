@@ -1,0 +1,150 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Administrator\AndroidStudioProjects\AndroidAttendanceSystem Project
+                                                                    -       
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\AndroidAttendanceSystem Project.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* .metadata\
+* .metadata\.lock
+* .metadata\.log
+* .metadata\.mylyn\
+* .metadata\.mylyn\.taskListIndex\
+* .metadata\.mylyn\.taskListIndex\segments.gen
+* .metadata\.mylyn\.taskListIndex\segments_1
+* .metadata\.mylyn\.tasks.xml.zip
+* .metadata\.mylyn\repositories.xml.zip
+* .metadata\.mylyn\tasks.xml.zip
+* .metadata\.plugins\
+* .metadata\.plugins\org.eclipse.cdt.core\
+* .metadata\.plugins\org.eclipse.cdt.core\.log
+* .metadata\.plugins\org.eclipse.cdt.make.core\
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.c
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp
+* .metadata\.plugins\org.eclipse.core.resources\
+* .metadata\.plugins\org.eclipse.core.resources\.root\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\2.tree
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+* .metadata\.plugins\org.eclipse.core.runtime\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.dltk.core.index.sql.h2.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.recording.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.discovery.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.monitor.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs
+* .metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\
+* .metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\model.2.log.db
+* .metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\model.data.db
+* .metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\model.index.db
+* .metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\model.trace.db
+* .metadata\.plugins\org.eclipse.dltk.core\
+* .metadata\.plugins\org.eclipse.dltk.core\Containers.dat
+* .metadata\.plugins\org.eclipse.dltk.ui\
+* .metadata\.plugins\org.eclipse.dltk.ui\OpenTypeHistoryorg_eclipse_php_core_PHPNature.xml
+* .metadata\.plugins\org.eclipse.epp.usagedata.recording\
+* .metadata\.plugins\org.eclipse.epp.usagedata.recording\upload0.csv
+* .metadata\.plugins\org.eclipse.epp.usagedata.recording\usagedata.csv
+* .metadata\.plugins\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache
+* .metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+* .metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+* .metadata\.plugins\org.eclipse.jdt.ui\
+* .metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.m2e.logback.configuration\
+* .metadata\.plugins\org.eclipse.m2e.logback.configuration\0.log
+* .metadata\.plugins\org.eclipse.m2e.logback.configuration\logback.1.0.100.20110804-1717.xml
+* .metadata\.plugins\org.eclipse.pde.core\
+* .metadata\.plugins\org.eclipse.pde.core\.cache\
+* .metadata\.plugins\org.eclipse.pde.core\.cache\clean-cache.properties
+* .metadata\.plugins\org.eclipse.ui.ide\
+* .metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.intro\
+* .metadata\.plugins\org.eclipse.ui.intro\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\
+* .metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workbench.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+* .metadata\.plugins\org.eclipse.wb.discovery.core\
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkit_ercp.png
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkit_gwt.png
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkit_swing.png
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkit_swt.png
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkit_xwt.png
+* .metadata\.plugins\org.eclipse.wb.discovery.core\toolkits.xml
+* .metadata\version.ini
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

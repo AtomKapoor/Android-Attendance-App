@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:4:5-50
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:8:5-73:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:11:9-56
+	android:allowBackup
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:9:10-74
+activity#com.android.attendance.activity.SplashScreen
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:16:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:24:10-27:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:25:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:28:10-31:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:29:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:32:10-35:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:33:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:37:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:41:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:45:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:49:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:52:10-55:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:53:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:56:11-59:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:57:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:60:10-63:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:61:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:64:10-67:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:65:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:68:10-71:20
+	android:label
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml:69:13-92
+uses-sdk
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\Android-Attendance-App\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\8a8c7d53542ab2c848ae5b8b6026706d\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ATOM\.gradle\caches\transforms-2\files-2.1\2651008cd98233e6b4b850667bef3705\runtime-1.0.0\AndroidManifest.xml:26:13-58
