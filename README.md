@@ -1,14 +1,16 @@
 # Android-Attendance-App
 
-
-
-
-
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
 It is a system developed in android studio through which
 faculty can register the number of students in a particular
 class then register the number of subjects in that class and can mark the attendance of the students.
+
+<h3>Screenshots</h3>
+<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578215423.png" width="200"> &nbsp;
+<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/123.JPG" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578216103.png" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578215610.png" width="200">
 <h2>Features Available</h2>
 <h3>Admin Module</h3>
 <ul>
